@@ -1,0 +1,27 @@
+{
+  "name": "api-rede-social",
+  "version": "1.0.0",
+  "description": "📱 API de Rede Social Este projeto é uma API RESTful que simula os principais endpoints de uma rede social. O objetivo é oferecer uma base sólida para fins de aprendizado, testes ou como ponto de partida para aplicações mais complexas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmb795/API-Rede-Social.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmb795/API-Rede-Social/issues"
+  },
+  "homepage": "https://github.com/danielmb795/API-Rede-Social#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "pg": "^8.16.3",
+    "sequelize": "^6.37.7",
+    "sequelize-cli": "^6.6.3"
+  }
+}
